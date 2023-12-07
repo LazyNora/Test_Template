@@ -128,11 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Array\Array1D\Array1D.cpp" />
+    <ClCompile Include="Default.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Array\Array1D\Array1D.h" />
-    <ClInclude Include="Flush.h" />
+    <ClInclude Include="Config.h" />
+    <ClInclude Include="Default.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
