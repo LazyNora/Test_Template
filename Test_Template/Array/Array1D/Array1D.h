@@ -12,7 +12,10 @@
 #define MIN -99
 #define MAX 99
 
-typedef int ItemType;
+//typedef int ItemType;
+
+int Array1D_init(ItemType*& a, int n);
+void Array1D_free(ItemType*& a, int& n);
 
 int Array1D_random(ItemType*& a, int& n);
 

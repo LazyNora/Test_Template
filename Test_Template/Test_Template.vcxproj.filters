@@ -24,6 +24,12 @@
     <ClCompile Include="Default.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Array\Array2D\Array2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Struct\Struct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Default.h">
@@ -33,6 +39,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Array\Array2D\Array2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct\Struct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
